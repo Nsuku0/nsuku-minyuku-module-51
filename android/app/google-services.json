@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "315139246743",
+    "project_id": "mtnapp-335c2",
+    "storage_bucket": "mtnapp-335c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315139246743:android:fd3abe8b098bca8fa8b7d2",
+        "android_client_info": {
+          "package_name": "com.example.bridgeup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "315139246743-j3jnr9ccaakdgk7j0gtuvnh8l8f29nhi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3UZrCFBJqB4naCyU1d_LoAvJzHjBfQ3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "315139246743-j3jnr9ccaakdgk7j0gtuvnh8l8f29nhi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
